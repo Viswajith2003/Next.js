@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 function Profile() {
   return (
-    <div> hello Profile page</div>
-  )
+    <div>
+      <h1 className="text-4xl fond-bold text-center">This is the Profile page</h1>
+    </div>
+  );
 }
 
-export default Profile
+export default Profile;
